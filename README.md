@@ -1,10 +1,10 @@
-# Finance: A Stock Portfolio
+# CS50-Finance
 
 Project for Week 8 of Harvard's CS50
 
-[View the full assignment description on CS50's OpenCourseWare](https://cs50.harvard.edu/x/2020/tracks/web/finance/)
+[View the full assignment description on CS50's OpenCourseWare](https://cs50.harvard.edu/x/2024/psets/9/finance/)
 
-<img src="screenshot.png" alt="screenshot of finance project" width="600px">
+<img src="https://cs50.harvard.edu/x/2024/psets/9/finance/finance_2024.png" alt="screenshot of finance project" width="600px">
 
 ## Technologies
 * Python
